@@ -1,0 +1,5 @@
+/*******************************
+     User Global Variables
+*******************************/
+/** add font display parameter to default  */
+@googleFontRequest : '@{googleFontName}:@{googleFontSizes}&subset=@{googleSubset}&display=swap';
