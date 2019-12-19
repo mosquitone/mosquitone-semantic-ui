@@ -1,3 +1,8 @@
 /*******************************
          Site Overrides
 *******************************/
+
+/* Add paper background style */
+.paper {
+    background-image: data-uri(@paperPath) !important;
+}

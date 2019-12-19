@@ -971,3 +971,5 @@
 @whiteActive               : darken(@white, 5);
 @offWhiteActive            : darken(@offWhite, 5);
 @darkWhiteActive           : darken(@darkWhite, 5);
+
+@paperPath: "@{imagePath}/soft-wallpaper.png";
